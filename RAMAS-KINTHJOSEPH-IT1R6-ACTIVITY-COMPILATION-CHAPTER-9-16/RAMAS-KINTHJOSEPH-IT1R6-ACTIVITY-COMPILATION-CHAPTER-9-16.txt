@@ -1,0 +1,59 @@
+Chapter 9:
+
+     Graph Introduction, at first it shows an example of a graph. First example is facebook how people in the family connected each other in facebook. It is undirected graph because there is no direction. Entities are called node and the thing that are connecting node are called edges. It also show an utility graph data structure is facebook friend suggestions. It shows another example of graph is flight routes. Routes between cities it is an example of directd graph, becuase there is a direction. It also shows the difference between graph and tree. In tree there is only one path between the two nodes. It also shows the codes for graph in python. 
+     
+     
+Chapter 10:
+
+     Binary search, topics are Theory behind linear, search, theory behind binary codes, python code for binary search, performace: linear vs binary, recursive binary search, exercise. It presents the codes for binary search in python language. def find_transaction(transactions): is the code. Linear search is not very efficient. Iteration 1=n/2, Iteration 2= (n/2)/2 = n/2^2, Iteration 3 = (n/2^2)/2 = n/2^3. Iteration k= n/2^k 1 = n/2^k, n = 2^k. There is some math things in binary search.
+     
+Chapter 11: 
+     
+     Bubble sort, topic is the python implentation for bubble sort. It shows an example liked a list of items and price for it. In bubble sort you need to begin by comparing first two numbers in the left. If the first number is greater than the second number, then they are going to exchange places. Then next the second element is compared to the third element, then the same rule like the early first and second element of the number list. Just keep going the process until the very end. The heighest number should be in the last position in the list of numbers. 
+       
+     
+Chapter 12:
+
+     Quick sort, topics timeline, Hoare partition scheme, lomuto partition scheme, python code for quick sort. It present a list of numbers to sort. It sort the number list to smallest to greates number. Partitioning is for example sorting the half of the list while the other in the list is not part of the sorting list. For short it is separated in the sorting list but it is part of the list of the numbers. Two types of partition schemes, hoare partition and lomuto partition. Hoare partition is from left to right. Lomuto partition is from right to left. def quick_sort(elements) is the code for quick sort in python programming language. 
+     
+    
+Chapter 13:
+   
+      Insetion sort, It presents list of numbers that are unsorted array that needs to be sorted array. The unsorted array have a rule that needs to be arrange by smallest to greates element. It is unable to put the unsorted array that is less than the last sorted array. You need to insert it in the exact place to be placed. Same way to the unsorted array. Needs to be place in the exact placed in the sorted arrays. 
+      
+      
+Chapter 14: 
+ 
+     Merge sort, It presents an example list of two unsorted arrays. That you have to be merge in the sorted array. The process is compairing the first number of each two list unsorteda arrays. After compairing the smallest element of the two needs to be in the first place in the unsorted array. Then the greates of the earlier two element that you compare. You have to compare in again in the next element. Its the same process to every elements in the two list of elements that are unsorted. 
+     
+Chapter 15: 
+
+       Shell sort, is an optimization over insertion sort. List of elements that you need to be sorted. It is from left to right process. It needs the unsorted array to become sorted array that the elements are from less to greatest elements that is from left to right. 
+     
+Chapter 16: 
+
+      Selection sort, shows the example of a list of number. Try to find a candidate for the first position that is going to be sorted because the list is unsorted. That candidate for the first position is the minimum number of the list. Find the minimum number which is the smallest element of the list. Then swap it with the first element, If it is lesser than the first element. Then after that the first element is sorted. Then just like the first step it is the same for the second place until it reach the last place. Then the entire list are sorted. 
+      
+Chapter 17: 
+
+      
+      Simple explanation of recursion, shows an example. Steps in the recursion , first divide a bigger into smaller simpler problem. Second is find a base condition with simple answer. Third step is return or roll back answer for base condition to solve all sub problems. 
+      
+      
+      
+II.
+
+
+1. 
+
+
+
+2. Loading when this answer was accepted… _radd_ is only called if the left object does not have an _add_ method, or that method does not know how to add the two objects (which it flags by returning NotImplemented).
+
+
+3. Now if you go by the official python documentation – the _str_ is used to find the “informal”(readable) string representation of an object whereas _repr_ is used to find the “official” string representation of an object
+
+4. A half adder is a logical circuit that performs an addition operation on two binary digits. The half adder produces a sum and a carry value which are both binary digits.
+A Half Adder is defined as a basic four terminal digital device which adds two binary input bits. It outputs the sum binary bit and a carry binary bit. As we have defined above, a half adder is a simple digital circuit used to digitally add two binary bits. A binary bit is either 0 or 1.
+
+5.
